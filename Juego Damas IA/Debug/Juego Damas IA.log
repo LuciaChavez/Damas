@@ -1,0 +1,4 @@
+﻿  Juego Damas IA.cpp
+Juego Damas IA.obj : error LNK2001: unresolved external symbol "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B)
+Juego Damas IA.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::Green" (?Green@Color@sf@@2V12@B)
+C:\Users\andre\source\repos\Juego Damas IA\Debug\Juego Damas IA.exe : fatal error LNK1120: 2 unresolved externals
